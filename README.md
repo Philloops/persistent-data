@@ -10,6 +10,10 @@ This project is based upon the series by Trever Mock
 
 [Save & Load System](https://www.youtube.com/playlist?list=PL3viUl9h9k7-tMGkSApPdu4hlUBagKial)
 
+## Sidenote
+
+This is something i worked on back in 2022. I'm uploading it now for reference down the road.
+
 ## Clips
 
 ![data-persistence](https://media.giphy.com/media/qf2UCQDk7hsKrzzM2Y/giphy.gif) ![data-persistence](https://media.giphy.com/media/ccWOU46mhiF2gKkaFJ/giphy.gif) 
